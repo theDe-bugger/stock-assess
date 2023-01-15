@@ -1,4 +1,4 @@
 # stock-assess
 LTSM-based machine learning model to predict changes in stock prices for Apple (AAPL)
 
-Check [analysis.ipynb]() for the various graphs, model, and data analysis.
+Check [analysis.ipynb](https://github.com/theDe-bugger/stock-assess/blob/main/analysis.ipynb) for the various graphs, model, and data analysis.
