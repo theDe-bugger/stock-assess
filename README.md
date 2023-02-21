@@ -34,7 +34,7 @@ Used matplotlib pyplot to plot several graphs and visualize the various data poi
 ![image](https://user-images.githubusercontent.com/39176231/220397546-b02489a4-bb9c-4782-8a84-6c7afcc86ab4.png)
 
 * Created heat map to show correlation of stock closing price between companies
-![image](https://user-images.githubusercontent.com/39176231/220398011-b417347a-dabf-4f91-bedc-a02cda10678b.png)
+![image](https://user-images.githubusercontent.com/39176231/220482390-985e0e52-ed0b-4080-8baa-a657849e8a64.png)
 
 ## 4. Risk Assessment
 Standardized returns and compared the scaled returns of each company to the level of risk each stock posed. Apple being the least risk, highest reward.
