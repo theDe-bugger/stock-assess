@@ -38,7 +38,7 @@ Used matplotlib pyplot to plot several graphs and visualize the various data poi
 
 ## 4. Risk Assessment
 Standardized returns and compared the scaled returns of each company to the level of risk each stock posed. Apple being the least risk, highest reward.
-![image](https://user-images.githubusercontent.com/39176231/220398077-9bae2efc-b32a-468c-88b3-bbbae33b2c66.png)
+![image](https://user-images.githubusercontent.com/39176231/220482310-4b92145c-771b-40a1-8094-d01285b4616e.png)
 
 
 ## 5. The Machine Learning Model
